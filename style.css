@@ -1,0 +1,33 @@
+
+body {
+    background: #FFFFFF;
+}
+
+header {
+      text-align: center;
+      background-color: #147FD7;
+      color: white;
+      font-family: Impact, Charcoal, sans-serif;
+  }
+  ul {
+      padding: 10px;
+      background: #F55B5B;
+  }
+  li {
+      display: inline;
+      padding: 0px 20px 0px 20px;
+  }
+
+  h1 {
+   font-size: 70px;
+   padding: 10px 0px 0px 0px;
+  }
+
+  h2 {
+    font-size: 30px;
+    padding: 0px 0px 10px 0px;
+  }
+
+  a {
+    color: white;
+  }
